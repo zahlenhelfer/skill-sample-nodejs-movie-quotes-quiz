@@ -10,7 +10,16 @@
           ],
           "name": "How Well Do You Know: Movie Quote Quiz!",
           "description": "The most fun movie quiz game around! Do you know movie quotes verbatim? Are you sure? Let Alexa put you to the test!"
-        }
+        },
+        "de-DE": {
+          "summary": "Wie gut kennst Du Film Zitate?",
+          "examplePhrases": [
+            "Alexa starte film zitat quiz",
+            "Alexa öffnen film zitat quiz"
+          ],
+          "name": "How Well Do You Know: Movie Quote Quiz!",
+          "description": "The most fun movie quiz game around! Do you know movie quotes verbatim? Are you sure? Let Alexa put you to the test!"
+        }  
       },
       "isAvailableWorldwide": true,
       "testingInstructions": "Sample Testing Instructions.",
